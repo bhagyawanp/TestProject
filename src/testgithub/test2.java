@@ -1,9 +1,9 @@
 package testgithub;
 
 public class test2 {
-	//1
-	//2
-	//3
-	//4
+
+public static void main(String[] args) {
+	
+}
 
 }
